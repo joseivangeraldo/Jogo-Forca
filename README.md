@@ -6,5 +6,10 @@ as imagens de caracteres Ascii que trazem a figura do enforcado em forma de matr
 Então foi colocado as clausulas e loops para trazer a tona este código.Devo acrescentar que este não traz as cases que o
 Intituto sugeria e já dava como pré arranjadas para o aluno. Utilizei rotinas criadas por mim.
 
+Alista das palavras está na lista de strings que se chama secreta.
+abaixo o trecho do código aonde ela se encontra.
+secreta = palavraAleatoria(['bala' , 'casa' , 'doce','rato']) ##chama a função para sortear uma palavra da lista
+Pode-se acrescentar quantas palavras quiser. Dexei estas curtas somente para os testes mais rapidos do meu algoritimo.
+
 
 
